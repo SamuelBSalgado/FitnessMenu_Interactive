@@ -1,0 +1,7 @@
+{
+  "name": "FitnessMenu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
